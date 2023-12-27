@@ -1,0 +1,19 @@
+﻿Сборка начата 09.06.2023 12:45:34.
+Уровень детализации журнала: Normal.     1>Проект "D:\BSTU\2 sem\КПО\Лабы\7+\call\call.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\call.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         call.vcxproj -> D:\BSTU\2 sem\КПО\Лабы\7+\Debug\call.exe
+       FinalizeBuildStatus:
+         Файл "Debug\call.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\call.tlog\call.lastbuildstate".
+     1>Сборка проекта "D:\BSTU\2 sem\КПО\Лабы\7+\call\call.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.07
